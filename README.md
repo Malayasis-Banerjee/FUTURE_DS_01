@@ -1,5 +1,5 @@
 # FUTURE_DS_01
-# 📊 Sample Superstore Executive Performance Dashboard (Power BI)
+# 📊 Sample Superstore Executive Performance Dashboard 
 ## 📌 Project Overview
 An executive-level, interactive business intelligence dashboard built in **Power BI** utilizing the classic **Sample - Superstore dataset**.  
 This project transforms raw retail data into actionable insights, tracking **revenue, profitability, customer behavior, and regional performance**.
