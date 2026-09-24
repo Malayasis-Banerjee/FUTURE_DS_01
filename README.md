@@ -6,6 +6,29 @@ This project transforms raw retail data into actionable insights, tracking **rev
 It is designed to provide executives and decision-makers with **real-time, interactive insights** into retail performance across multiple dimensions.
 
 ---
+
+## 📊 Dataset
+
+**Dataset:** Sample - Superstore  - Dirty Data for Cleaning Training  
+**Source:** Kaggle
+**Period:** 2014–2017
+**Rows:** 9,995
+**Columns:** 21
+**Data type:** Raw, uncleaned transaction data
+### 📊 Dataset Metadata
+- **Row ID** → Unique ID for each row  
+- **Order ID** → Unique Order ID per customer  
+- **Order Date / Ship Date** → Timeline of purchase and delivery  
+- **Ship Mode** → Customer‑specified shipping method  
+- **Customer ID / Name** → Unique identifiers for customers  
+- **Segment** → Customer segment (Consumer, Corporate, Home Office)  
+- **Country / City / State / Postal Code / Region** → Geographic attributes  
+- **Product ID / Name / Category / Sub‑Category** → Product details  
+- **Sales** → Revenue generated  
+- **Quantity** → Units sold  
+- **Discount** → Discount applied  
+- **Profit** → Net profit or loss
+  
 ### 🎯 Objectives
 - Transform raw retail data into **actionable insights**.
 - Enable **data-driven decision-making** through interactive visuals.
@@ -26,7 +49,7 @@ This project demonstrates how **Power BI, Power Query, and DAX** can be leverage
 
 
 ## 🖼️ Dashboard Preview
-
+![DASHBOARD PREVIEW](https://github.com/Malayasis-Banerjee/FUTURE_DS_01/blob/main/Screenshot%202026-09-24%20002637.png)
 
 ---
 
@@ -121,7 +144,7 @@ Total Orders = DISTINCTCOUNT('Superstore'[Order ID])
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/superstore-powerbi-dashboard.git
+    https://github.com/Malayasis-Banerjee/FUTURE_DS_01/blob/main/Future%20Intern%201.pbix
   ```
 
 
