@@ -153,4 +153,4 @@ Total Orders = DISTINCTCOUNT('Superstore'[Order ID])
 **Malayasis Banerjee**  
 
 Data Analyst Intern | Aspiring Data Analyst
-#DataAnalytics #ExploratoryDataAnalysis #SWYNEXTechnologies
+#DataAnalytics #ExploratoryDataAnalysis #FutureIntern
